@@ -1,4 +1,4 @@
-﻿# 国际象棋 · 三端同源
+# 国际象棋 · 三端同源
 
 简约风格的单机国际象棋。**同一套规则与 AI，跑在 Windows 桌面、网页、安卓、iOS 上**。
 人机对战（ELO 100–2000，20 档）、本地双人、25 个开局定式学习、逐步 AI 解析，以及一个**带引导的多邻国式复盘课**。
@@ -126,7 +126,6 @@ docs/                 截图与详细开发记录
 
 ## 更多文档
 
-- [docs/发布流程.md](docs/发布流程.md)：上传到 GitHub、发版、重新打包的完整步骤
 - [mobile/README.md](mobile/README.md)：网页版 / 安卓 / iOS 的构建与调试（含 `?demo=` 调试参数、截图命令）
 - [mobile/ios/README.md](mobile/ios/README.md)：iOS 工程说明（用 Xcode 打开、改 Bundle ID、签名）
 - 压缩包内 `使用说明.txt`：面向普通玩家的使用指南
