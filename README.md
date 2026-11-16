@@ -124,6 +124,7 @@ docs/                 截图与详细开发记录
 
 ## 更多文档
 
+- [docs/发布流程.md](docs/发布流程.md)：上传到 GitHub、发版、重新打包的完整步骤
 - [mobile/README.md](mobile/README.md)：网页版 / 安卓 / iOS 的构建与调试（含 `?demo=` 调试参数、截图命令）
 - [mobile/ios/README.md](mobile/ios/README.md)：iOS 工程说明（用 Xcode 打开、改 Bundle ID、签名）
 - 压缩包内 `使用说明.txt`：面向普通玩家的使用指南
