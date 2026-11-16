@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 用系统自带主题，不依赖 AndroidX / AppCompat（本机无网络，无法解析依赖） -->
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light.NoActionBar">
+        <item name="android:windowBackground">#FFF6F4F0</item>
+        <item name="android:colorBackground">#FFF6F4F0</item>
+    </style>
+</resources>
