@@ -1,0 +1,28 @@
+# ---------------- 构建产物（走 Releases，不进仓库） ----------------
+dist/
+tools/*.exe
+*.user
+
+# ---------------- 移动端构建产物 ----------------
+mobile/dist/
+mobile/android/.gradle/
+mobile/android/app/build/
+mobile/android/build/
+mobile/ios/**/build/
+*.apk
+*.zip
+
+# ---------------- 开发用截图（仓库只留 docs/images 里精选的几张） ----------------
+dev_shots/
+mobile/shots/
+
+# ---------------- Python ----------------
+__pycache__/
+*.pyc
+
+# ---------------- 系统 / 编辑器 ----------------
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
