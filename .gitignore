@@ -1,5 +1,6 @@
 # ---------------- 构建产物（走 Releases，不进仓库） ----------------
 dist/
+release/
 tools/*.exe
 *.user
 

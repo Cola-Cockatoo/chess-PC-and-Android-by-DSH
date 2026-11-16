@@ -1,4 +1,4 @@
-# 国际象棋 · 三端同源
+﻿# 国际象棋 · 三端同源
 
 简约风格的单机国际象棋。**同一套规则与 AI，跑在 Windows 桌面、网页、安卓、iOS 上**。
 人机对战（ELO 100–2000，20 档）、本地双人、25 个开局定式学习、逐步 AI 解析，以及一个**带引导的多邻国式复盘课**。
@@ -51,10 +51,12 @@
 
 | 平台 | 方式 |
 | --- | --- |
-| Windows | 到 [Releases](../../releases) 下载 `国际象棋电脑版.zip`，解压后双击 `国际象棋.exe`（需 .NET Framework 4.x，Win10/11 自带） |
-| 安卓 | 到 Releases 下载 `国际象棋.apk` 安装（允许「安装未知来源应用」） |
-| iOS | 到 Releases 下载 `国际象棋-iOS工程.zip`，用 Xcode 打开工程、换成自己的签名后运行 |
-| 网页 | 到 Releases 下载 `国际象棋.html`，双击用浏览器打开即可（单文件、离线可用） |
+| Windows | 到 [Releases](../../releases) 下载 `chess-windows.zip`，解压后双击 `国际象棋.exe`（需 .NET Framework 4.x，Win10/11 自带） |
+| 安卓 | 到 Releases 下载 `chess-android.apk` 安装（允许「安装未知来源应用」） |
+| iOS | 到 Releases 下载 `chess-ios-project.zip`，用 Xcode 打开工程、换成自己的签名后运行 |
+| 网页 | 到 Releases 下载 `chess-web.html`，双击用浏览器打开即可（单文件、离线可用） |
+
+> 附件用英文名，是因为 GitHub 网页上传中文文件名会被截断（实测变成 `default.apk` 这类名字）。
 
 > 程序没有代码签名，Windows SmartScreen 可能提示「未知发布者」→ 点「更多信息」→「仍要运行」。
 
